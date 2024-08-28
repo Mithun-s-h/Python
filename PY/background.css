@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2024/01/08/15/54/defile-8495836_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+    background-position: 50px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color:chartreuse;
+/* text-shadow: tomato 2px; */
+padding: 30px 30px ;
+text-align: justify;
+/* text-shadow: 5px coral; */
+}

@@ -1,0 +1,14 @@
+#  NumPy:- numerical python- powerful python library that is widely in scientific computing,data analysis,numerical computing
+# pip install NumPy:instalation
+# In NumPy,an Array is the fundamental object.(ndarray):n dimentional 
+# Arrays are used to store (only)homogeneous data elements in a contiguous block of memeory.
+# Arrays are static and cannn't be resized once they are created.
+# Arrays support element wise opertions
+# NumPy array takes less space in memory
+# searching is easy
+# insertion and deletion is difficult
+# array is inside the numpy
+
+
+a=[10 20 30 40] 
+ 100 104 108 112 -memeory location
